@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{FA96C0E8-4740-47E4-A7BB-47D2D972FEB1}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BasicAuthentication/Program.cs">
+    <Files>
+      <File FileName="BasicAuthentication/Views/Account/Index.cshtml" Line="14" Column="6" />
+      <File FileName="BasicAuthentication/Models/BasicAuthenticationContext.cs" Line="13" Column="8" />
+      <File FileName="BasicAuthentication/Controllers/AccountController.cs" Line="71" Column="10" />
+      <File FileName="BasicAuthentication/ViewModels/LoginViewModel.cs" Line="8" Column="2" />
+      <File FileName="BasicAuthentication/Views/Account/Login.cshtml" Line="21" Column="1" />
+      <File FileName="BasicAuthentication/Models/Item.cs" Line="14" Column="2" />
+      <File FileName="BasicAuthentication/Controllers/ItemController.cs" Line="24" Column="46" />
+      <File FileName="BasicAuthentication/Views/ToDo/Index.cshtml" Line="26" Column="41" />
+      <File FileName="BasicAuthentication/Views/ToDo/create.cshtml" Line="15" Column="42" />
+      <File FileName="BasicAuthentication/Models/ApplicationUser.cs" Line="11" Column="36" />
+      <File FileName="BasicAuthentication/ViewModels/RegisterViewModel.cs" Line="22" Column="2" />
+      <File FileName="BasicAuthentication/Program.cs" Line="24" Column="2" />
+      <File FileName="BasicAuthentication/Startup.cs" Line="55" Column="1" />
+      <File FileName="BasicAuthentication/appsettings.json" Line="3" Column="69" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.BasicAuthentication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MultiItemStartupConfigurations />
+</Properties>
